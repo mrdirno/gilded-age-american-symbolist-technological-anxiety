@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-symbolist-technological-anxiety",
+  "title": "The Loom of Lightning",
+  "tagline": "A forgotten genius left behind a wire that dreams, and a man who must listen before the new world erases the old.",
+  "target_words": 70000,
+  "actual_words": 69637,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Alchemy of Electricity",
+    "Genteel Poverty vs. Gilded Opulence",
+    "Technology as a Living Language",
+    "The Anxiety of Unseen Realities"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Copper Wire",
+      "words": 2900
+    },
+    {
+      "ch": 2,
+      "title": "The Stanhope Inquiry",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "Harrington's Ghost",
+      "words": 2700
+    },
+    {
+      "ch": 4,
+      "title": "The First Resonance",
+      "words": 3000
+    },
+    {
+      "ch": 5,
+      "title": "A Debt Called In",
+      "words": 2750
+    },
+    {
+      "ch": 6,
+      "title": "The Laboratory Auction",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "Eleanor's Compromise",
+      "words": 2650
+    },
+    {
+      "ch": 8,
+      "title": "The Syntax of Light",
+      "words": 3200
+    },
+    {
+      "ch": 9,
+      "title": "The Patron's Offer",
+      "words": 2850
+    },
+    {
+      "ch": 10,
+      "title": "A Demonstration",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Unseen Harmony",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "Cracks in the Foundation",
+      "words": 2750
+    },
+    {
+      "ch": 13,
+      "title": "The North River Incident",
+      "words": 3300
+    },
+    {
+      "ch": 14,
+      "title": "Whispers in the Wire",
+      "words": 2900
+    },
+    {
+      "ch": 15,
+      "title": "A Choice of Loyalties",
+      "words": 2800
+    },
+    {
+      "ch": 16,
+      "title": "The Forgotten Sketchbook",
+      "words": 3000
+    },
+    {
+      "ch": 17,
+      "title": "The Stanhope Ball",
+      "words": 3500
+    },
+    {
+      "ch": 18,
+      "title": "A Public Unveiling",
+      "words": 3200
+    },
+    {
+      "ch": 19,
+      "title": "The Cost of Resonance",
+      "words": 3100
+    },
+    {
+      "ch": 20,
+      "title": "Flight to the Workshop",
+      "words": 2850
+    },
+    {
+      "ch": 21,
+      "title": "The Final Circuit",
+      "words": 3400
+    },
+    {
+      "ch": 22,
+      "title": "Not a Pipe, But a Loom",
+      "words": 3600
+    },
+    {
+      "ch": 23,
+      "title": "What the Wire Wove",
+      "words": 3750
+    },
+    {
+      "ch": 24,
+      "title": "A Different Grammar",
+      "words": 2950
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character uses a common Gilded Age technology (a telegraph, a phonograph, an electric light) and it begins to respond not to its function, but to their unspoken emotional state.",
+      "Create a journal entry from Eleanor's perspective, detailing her observation of Silas's transformation and her own fears for their future, using the fading objects in their home as metaphors.",
+      "Imagine a confrontation between Julian Stanhope and a lower-level technician in his employ who has accidentally discovered an 'echo' of Harrington's work in the mainstream electrical grid.",
+      "Write a 'lost' fragment from Alistair Harrington's notes, written in a blend of scientific observation and symbolic poetry, describing his first successful 'conversation' with the wire."
+    ],
+    "technical": [
+      "Design a speculative interface for 'programming' Silas's special wire, using period-appropriate tools like tuning forks, harmoniums, or Leyden jars as inputs. How would the 'code' be represented?",
+      "Prototype a simple physical or digital model that demonstrates the core aesthetic: an object that responds to sound or vibration not with sound, but with a different physical behavior (e.g., light patterns, movement, temperature change)."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Nikola Tesla",
+      "Nathaniel Hawthorne",
+      "Charlotte Perkins Gilman",
+      "Herman Melville"
+    ]
+  },
+  "cover_prompt": "A gaunt, elegant inventor in threadbare Victorian attire kneels in reverence, his hand hovering over a crackling, luminous copper wire that coils like a living vine from a primitive wooden apparatus, its core pulsing with captured lightning and whispering, ghostly faces within the energy, set within a cluttered, gaslit attic workshop of genteel poverty, where intricate brass instruments and schematics contrast with peeling wallpaper and the distant, ominous glow of a gilded city’s new electric skyline visible through a grimy circular window, in the atmospheric style of American Symbolist painter Albert Pinkham Ryder combined with the detailed etching techniques of Joseph Pennell and the luminous tension of Atkinson Grimshaw, book cover framing, centered composition with a dramatic low-angle view from the wire’s perspective looking up at the inventor’s awestruck face, dramatic chiaroscuro lighting with pools of warm gaslight and cold, ethereal blue electrical glow casting long, anxious shadows, color palette of sepia, burnt umber, and tarnished gold contrasted against spectral cerulean and zinc white, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
