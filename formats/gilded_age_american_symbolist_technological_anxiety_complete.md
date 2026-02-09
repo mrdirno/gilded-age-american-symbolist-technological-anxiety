@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The copper wire arrived at the Gramercy Park house in a plain pine box, smelling of ozone and damp burlap. Silas Thorne signed for it with a hand that did not tremble, tipped the delivery boy a nickel he could ill-afford, and carried the crate into the parlor as if it contained a sleeping infant. The room was a museum of quiet desperation: velvet drapes drawn against the afternoon, a grand piano shrouded in a dust sheet, the air thick with the ghosts of lavender polish and coal smoke. He set the box on the rosewood table, the only clear surface in a sea of mechanical detritus—disassembled chronometers, sketches of articulated brass hands, a half-finished model of a turbine that resembled a fossilized orchid.
@@ -120,6 +122,8 @@ And he knew, with a certainty that was both cold and exhilarating, what he had t
 
 ---
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The Thorne & Son workshop, a cavernous space on West 28th Street that now housed only Silas, smelled of hot metal, pine resin, and the ghost of his father’s pipe tobacco. Morning light, filtered through grimy skylights, fell in heavy bars across the forest of dormant machinery—stamping presses, lathes, coil winders—all silent under their canvas shrouds. This was the temple of his family’s former gospel: reliable, invisible utility.
@@ -223,6 +227,8 @@ He picked up his soldering iron. The fight was no longer about discovery, or rep
 It was about composition.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
